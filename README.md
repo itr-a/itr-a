@@ -7,7 +7,9 @@ Open to remote junior pentesting or security analyst roles.
 
 
 ## 🛠 Skills & Tools
-`Linux` `Burp Suite` `nmap` `Metasploit` `sqlmap` `Python`  
+<p align="left">
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" width="40"/>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali Linux" width="40"/>
 
 
 
