@@ -10,6 +10,7 @@ Open to remote junior pentesting or security analyst roles.
 <p align="left">
 <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" width="40"/>
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali Linux" width="40"/>
+<img src="https://cdn.simpleicons.org/burpsuit/FF6633" alt="Burp Suit" width="40"/>
 
 
 
