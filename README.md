@@ -17,8 +17,6 @@ Open to remote junior pentesting or security analyst roles.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/itaru-awano
-- Notion: Public learning journal — [https://www.notion.so/notion](https://mycybersecurityjourney.notion.site/Cybersecurity-Learning-Journey-23a0a21340ce807eb673fabc54c803df?source=copy_link)
-
 
 
 ## ⚡ Fun bit
